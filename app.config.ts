@@ -1,6 +1,7 @@
+// Gray: ['slate', 'cool', 'zinc', 'neutral', 'stone']
 export default defineAppConfig({
   ui: {
-    primary: 'lime',
-    gray: 'neutral',
+    primary: 'cyan',
+    gray: 'zinc',
   }
 })
