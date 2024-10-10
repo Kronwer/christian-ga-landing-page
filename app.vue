@@ -1,9 +1,6 @@
 <template>
-  <div class="flex flex-col p-4 gap-4">
-    <CardInfo/>
-    <CardLinks/>
+  <div>
     <NuxtPage />
-    <AppFooter />
   </div>
 </template>
 
