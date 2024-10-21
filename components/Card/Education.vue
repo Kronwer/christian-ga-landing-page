@@ -7,7 +7,8 @@
             <ItemEducation 
             imageUrl="upv.png" 
             collegeName="Technical University of Valencia"
-            title="Bachelor's Degree in Informatics Engineering"/>
+            title="Bachelor's Degree in Informatics Engineering"
+            period="Sept. 2018 - Sept. 2022"/>
         </div>
     </UCard>
 </template>
