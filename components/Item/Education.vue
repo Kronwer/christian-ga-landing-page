@@ -19,7 +19,7 @@ const props = defineProps({
 
 <template>
     
-        <div class="flex gap-4 md:items-center">
+        <div class="flex gap-4">
             <UAvatar :src=imageUrl size="lg" />
             <div>
                 <p class="font-semibold text-lg">{{ props.collegeName }}</p>
