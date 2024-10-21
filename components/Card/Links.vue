@@ -26,7 +26,7 @@ const copyToClipboard = (value) => {
 
 <template>
     <UCard>
-        <div class="mb-2 text-left">
+        <div class="mb-2">
             <p class="font-semibold text-lg">Contact Me</p>
         </div>
         <div class="flex justify-between">
