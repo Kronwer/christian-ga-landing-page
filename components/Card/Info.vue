@@ -4,8 +4,10 @@
             <UAvatar src="christian.jpg" size="2xl"/>
             <div class="flex flex-col">
                 <p class="font-semibold">CHRISTIAN GARCIA ACIDELLAS</p>
-                <p>Male - 26</p>
-                <p>Alicante - Spain</p>
+                <div class="text-sm text-slate-400">
+                    <p>Male - 26</p>
+                    <p>Alicante - Spain</p>
+                </div>
             </div>
         </div>
     </UCard>

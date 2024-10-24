@@ -22,7 +22,7 @@ const props = defineProps({
             <UDivider :avatar="{src: imageUrl}" orientation="vertical" size="md" />
             <div>
                 <p class="font-bold text-sm">{{ props.collegeName }}</p>
-                <p class="text-xs">{{ props.title }}</p>
+                <p class="text-sm">{{ props.title }}</p>
                 <p class="text-xs">{{ props.period }}</p>
             </div>
         </div>
