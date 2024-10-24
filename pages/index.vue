@@ -1,8 +1,9 @@
 <template>
     <div class="flex flex-col py-2 gap-4">
         <CardInfo />
-        <CardLinks />
+        <CardCV />
         <CardExperience />
         <CardEducation />
+        <CardLinks />
     </div>
 </template>
