@@ -25,16 +25,11 @@ const copyToClipboard = (value) => {
 </script>
 
 <template>
-    <UCard>
-        <div class="mb-2">
-            <p class="font-semibold text-lg">Contact Me</p>
+    
+        <div class="mt-2">
+            <p class="font-semibold text-lg md:text-xl text-center">Contact Me</p>
         </div>
-        <div class="flex justify-between">
-            <UTooltip text="Open in new tab">
-                <a href="https://github.com/Kronwer" target="_blank" rel="noopener noreferrer">
-                    <Icon name="uil:github" size="3em" style="color: white" />
-                </a>
-            </UTooltip>
+        <div class="flex justify-center gap-8">
             <UTooltip text="Open in new tab">
                 <a href="https://www.linkedin.com/in/christianga/" target="_blank" rel="noopener noreferrer">
                     <Icon name="uil:linkedin" size="3em" style="color: white" />
@@ -48,6 +43,11 @@ const copyToClipboard = (value) => {
                 <Icon name="uil:phone" size="3em" style="color: white"
                     @click=copyToClipboard(phone) />
             </UTooltip>
+            <UTooltip text="Open in new tab">
+                <a href="https://github.com/Kronwer" target="_blank" rel="noopener noreferrer">
+                    <Icon name="uil:github" size="3em" style="color: white" />
+                </a>
+            </UTooltip>
         </div>
-    </UCard>
+    
 </template>

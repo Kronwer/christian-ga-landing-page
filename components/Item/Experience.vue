@@ -24,10 +24,10 @@ const props = defineProps({
         <div class="flex gap-3">
             <UDivider :avatar="{src: imageUrl}" orientation="vertical" size="md" />
             <div>
-                <p class="font-bold">{{ props.companyName }}</p>
-                <p class="text-sm">{{ props.title }}</p>
-                <p class="text-xs mb-2">{{ props.period }}</p>
-                <p class="text-xs text-slate-400">Keywords: {{ props.technologies }}</p>
+                <p class="font-bold lg:text-lg">{{ props.companyName }}</p>
+                <p class="text-sm lg:text-base">{{ props.title }}</p>
+                <p class="text-xs mb-2 lg:text-sm">{{ props.period }}</p>
+                <p class="text-xs text-slate-400 lg:text-sm">Keywords: {{ props.technologies }}</p>
             </div>
         </div>
 </template>
