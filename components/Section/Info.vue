@@ -6,7 +6,7 @@
                 <p class="font-semibold sm:text-lg lg:text-xl">CHRISTIAN GARCIA ACIDELLAS</p>
                 <div class="text-sm text-slate-400 lg:text-base">
                     <p>Male - 26</p>
-                    <p>Alicante - Spain</p>
+                    <p>Crevillente - Spain</p>
                 </div>
             </div>
         </div>
