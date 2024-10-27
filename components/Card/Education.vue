@@ -5,7 +5,7 @@
         </div>
         <div class="flex flex-col gap-3">
             <ItemEducation 
-            imageUrl="upv.png" 
+            imageUrl="upv.jpg" 
             collegeName="Technical University of Valencia (UPV)"
             title="Bachelor's Degree in Informatics Engineering"
             period="Sept. 2018 - Sept. 2022"/>
