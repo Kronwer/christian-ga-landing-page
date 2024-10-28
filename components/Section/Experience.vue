@@ -23,7 +23,7 @@
                 companyName="BiiT Sourcing Solutions"
                 title="Full Stack Developer Intern"
                 period="feb. 2022 - jul. 2022"
-                technologies="Angular, TypeScript, Java Spring, SQL Server"
+                technologies="Angular, TypeScript, Java Spring, SQL"
             />
         </div>
     </UCard>
