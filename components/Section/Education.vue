@@ -1,7 +1,7 @@
 <template>
     <UCard>
         <div class="mb-3">
-            <p class="font-semibold text-lg lg:text-xl">Education</p>
+            <p class="font-semibold text-lg lg:text-xl xl:text-2xl">Education</p>
         </div>
         <div class="flex flex-col gap-3">
             <ItemEducation 

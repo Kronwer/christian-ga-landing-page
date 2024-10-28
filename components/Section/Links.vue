@@ -25,8 +25,8 @@ const copyToClipboard = (value) => {
 </script>
 
 <template>
-    
-        <div class="mt-2">
+    <div class="flex flex-col gap-2">
+        <div>
             <p class="font-semibold text-lg md:text-xl text-center">Contact Me</p>
         </div>
         <div class="flex justify-center gap-8">
@@ -49,5 +49,5 @@ const copyToClipboard = (value) => {
                 </a>
             </UTooltip>
         </div>
-    
+    </div>
 </template>

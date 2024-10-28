@@ -1,7 +1,7 @@
 <template>
     <UCard>
         <div class="mb-3">
-            <p class="font-semibold text-lg lg:text-xl">Download CV</p>
+            <p class="font-semibold text-lg lg:text-xl xl:text-2xl">Download CV</p>
         </div>
         <div class="flex justify-between gap-3">
             <a href="/(ENG)ChristianGarciaCV2024.pdf" download="(ENG)ChristianGarciaCV2024.pdf" class="grow">
