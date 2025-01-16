@@ -22,7 +22,7 @@ const props = defineProps({
 
 <template>
         <div class="flex gap-3">
-            <UDivider :avatar="{src: imageUrl}" orientation="vertical" size="md" />
+            <UDivider :avatar="{src: imageUrl, size: 'sm'}" orientation="vertical" size="md" />
             <div>
                 <p class="font-bold lg:text-lg xl:text-xl">{{ props.companyName }}</p>
                 <p class="text-sm lg:text-base xl:text-lg">{{ props.title }}</p>
